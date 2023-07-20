@@ -1,0 +1,19 @@
+/* styles/global.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Madera W01 Bold";
+  src: url('/static/fonts/Madera W01 Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Hind Siliguri Regular";
+  src: url('/static/fonts/HindSiliguri-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Hind Siliguri Bold";
+  src: url('/static/fonts/HindSiliguri-Bold.ttf') format('truetype');
+}
